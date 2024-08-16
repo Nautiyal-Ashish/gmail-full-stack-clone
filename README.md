@@ -6,7 +6,7 @@ Great! Here’s a well-structured and visually appealing README tailored for you
 
 Welcome to the **Gmail Clone App**! This project replicates the core functionalities of Gmail, providing users with a familiar and intuitive interface for managing their emails. 
 
-![Gmail Clone Screenshot](https://photos.app.goo.gl/kfpurszPFSdgzM857)
+![Gmail Clone Screenshot](https://photos.fife.usercontent.google.com/pw/AP1GczOf-dLrc_ZG0qHDyH7cP3BENxrrdsZmJcra655MDT323NDbt1Jeiqc=w1919-h907-s-no-gm?authuser=0)
 
 ## 🌟 Features
 
