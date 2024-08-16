@@ -6,7 +6,7 @@ Great! Here’s a well-structured and visually appealing README tailored for you
 
 Welcome to the **Gmail Clone App**! This project replicates the core functionalities of Gmail, providing users with a familiar and intuitive interface for managing their emails. 
 
-![Gmail Clone Screenshot](https://via.placeholder.com/800x400?text=Gmail+Clone+Screenshot)
+![Gmail Clone Screenshot](https://photos.app.goo.gl/kfpurszPFSdgzM857)
 
 ## 🌟 Features
 
@@ -60,10 +60,13 @@ To run this project locally, follow these steps:
 
 ## 📸 Screenshots
 
-![Inbox View](https://via.placeholder.com/800x400?text=Inbox+View)
+![Inbox View](https://photos.app.goo.gl/QTotoe4s2wG24Jdj6)
 *Inbox View*
 
-![Compose Email](https://via.placeholder.com/800x400?text=Compose+Email)
+![Compose Email](https://photos.app.goo.gl/q74cfXttzHQ965bCA)
+*Compose Email*
+
+![Single Email Preview](https://photos.app.goo.gl/q261Q4GUGcXBNWQT8)
 *Compose Email*
 
 ## 🤝 Contributing
